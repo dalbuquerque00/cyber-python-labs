@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envimroments
+venv/
+env/
+.venv/
+
+# Local editor config
+.vscode/
+.idea/
+
+# Temp logs and file tests 
+*.log
+temp/
